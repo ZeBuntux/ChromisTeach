@@ -1,2 +1,3 @@
 # ChromisTeach
-Testing multicurrency transaction
+Testing multicurrency payment transaction
+
